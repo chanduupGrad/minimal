@@ -6,21 +6,14 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Fraud Detection
 
 Machine learning training project
 
 ## Project Detail
 
-> A sample manchine learning project as part of Git training
+> A sample manchine learning project as part of Git training was created with basic github commands for learning. 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
