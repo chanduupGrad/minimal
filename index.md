@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Data Science Portfolio**
+# **Data Science Portfolio**
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -12,7 +12,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1
+# Fraud Detection
 
 Machine learning training project
 
